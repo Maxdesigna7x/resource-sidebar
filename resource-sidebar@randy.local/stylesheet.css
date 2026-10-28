@@ -1,0 +1,26 @@
+.rs-card {
+    background-color: rgba(29, 29, 30, 0.94);
+    border: 1px solid rgba(220,220,220,0.15);
+    border-radius: 12px;
+    box-shadow: 0 3px 14px 0 rgba(0,0,0,0.22);
+    color: #dedede;
+    font-family: Cantarell, sans-serif;
+    padding-bottom: 3px;
+}
+.rs-header { padding: 3px 7px 0; }
+.rs-pin { border-radius: 4px; min-width: 16px; min-height: 16px; padding: 0; }
+.rs-pin:hover, .rs-pin:focus { background-color: rgba(255,255,255,0.07); }
+.rs-metric { padding: 4px 10px 5px; border-bottom: 1px solid rgba(220,220,220,0.06); text-align: left; }
+.rs-metric:last-child { border-bottom-width: 0; }
+.rs-metric:hover, .rs-metric:focus { background-color: rgba(255,255,255,0.025); }
+.rs-metric-box { spacing: 2px; }
+.rs-metric-top { spacing: 6px; }
+.rs-metric-title { font-size: 11px; font-weight: 600; }
+.rs-metric-bottom { spacing: 6px; }
+.rs-value { font-size: 11px; font-weight: 500; text-align: left; }
+.rs-secondary { font-size: 10px; color: #a9a9a9; padding-top: 0; text-align: left; }
+.rs-compact .rs-header { padding: 3px 0 0; }
+.rs-compact .rs-metric { padding: 3px 8px; }
+.rs-compact .rs-metric-top { padding-left: 5px; }
+.rs-compact .rs-metric-box { spacing: 2px; }
+.rs-edge { background-color: transparent; }

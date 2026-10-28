@@ -1,0 +1,7 @@
+<schemalist>
+  <schema id="org.gnome.shell.extensions.resource-sidebar" path="/org/gnome/shell/extensions/resource-sidebar/">
+    <key name="pinned" type="b"><default>false</default><summary>Mantener el panel visible en su tamaño actual</summary></key>
+    <key name="toggle-sidebar" type="as"><default>['&lt;Shift&gt;Alt_L', '&lt;Alt&gt;Shift_L', '&lt;Alt&gt;Shift_R']</default><summary>Mostrar u ocultar el monitor desde cualquier aplicación</summary></key>
+    <key name="expanded" type="b"><default>false</default><summary>Usar tamaño grande independientemente del anclado</summary></key>
+  </schema>
+</schemalist>

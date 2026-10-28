@@ -1,0 +1,10 @@
+{
+  "uuid": "resource-sidebar@randy.local",
+  "name": "Resource Sidebar",
+  "description": "Monitor lateral de recursos con vista al pasar el cursor y panel fijado.",
+  "version": 4,
+  "shell-version": [
+    "46"
+  ],
+  "settings-schema": "org.gnome.shell.extensions.resource-sidebar"
+}

@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+schemas/gschemas.compiled
+**/gschemas.compiled
